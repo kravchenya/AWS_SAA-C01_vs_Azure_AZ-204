@@ -25,6 +25,8 @@ Azure Developer Associate lasts 180 minutes and contains around 50 questions (au
 
 Also, the author wants to mention, that official Microsoft documents dos not exclude tasks that must be solved directly in Azure sandbox environment (i.e. either via Azure Portal, PowerShell or Azure CLI). And the author believes that indeed such tasks after some time in the future may be introduced into examination.
 
+![](Images/AzureNotes.jpg)
+
 ### Summary
 As one can see already, that structure and organization of a question between two exams are different, the author assess Azure certification as being more difficult than AWS certification, as the former one has a different and a more complex structure of questions and often asks about specific syntax, SDK classes or variables in templates. As the author already mentioned in the beginning of the article, that this difference may partially come from different focuses of the exams (AWS Solution Architect vs Azure Developer). Summarizing experiences with two certifications,  the author thinks Microsoft Azure Developer Associate was more difficult than AWS Solution Architect Associate.
 
@@ -53,8 +55,12 @@ However, in respect to COVID-19 development, it became possible to have a procto
 To get straight to the point: The author had a very bad experience with PSI.
 The author did a  system check a couple of days before the examination date, to see whether the laptop passes all of the criteria. This test was successful, however, while proceeding through a check in before the real exam, the author got general messages, that some program was running and the test could not be started. It took some time to figure out that some background service was running and it  was stopped (if it matters they were Hyper-V processes). In total it caused about 30 minutes delay and therefore the author had 30 minutes less for a test from a given 180. Then shortly after the author started the exam, he was interrupted with the requirement to position his face to a certain place oval place on a screen within 4 minutes. However after about the first minute of these 4 minutes, the test was completely stopped, the author had to contact a proctor and redo check in or repeat some steps from the check-in. The author believes the reason of this interruption could be, that while proceeding with the check-in and taking a required selfie-photo, the author had no glasses on, and shortly before starting examination, the author put his glasses on. However, this is a guess without confirmations. But still it was not the last issue. Closer to the end, the author was interrupted again: a message was shown saying something about DNS issue. And the author had to contact the proctor again. All these experiences destructed and added significant stress and the author failed his first attempt. One more thing which is now funny, but during the test some workers arrived and started to drill a wall from outside in front of author’s apartment in order to install a balcony. The proctor heard them and asked what noise it was and warned me, that if any person enters the room, the test would be interrupted immediately, but allowed me to continue. After the exam ended, the author got an email from PSI with the result. What is important if this email was lost or deleted, there would be no any other chance to get the results again (PSI web site does not offer an option to resend/regenerate the score).
 
+![](Images/AzureFailed.jpg)
+
 ### Pearson VUE
 Second attempt was scheduled with Pearson VUE. The author also did a system test a day before the examination date, on the examination date he repeated the test and he did not get any notifications in regards to Hyper-V processes (author did not do anything special to stop or uninstall them, and they should have been running in the background). However, the author experienced another issue, while uploading photos of ID with his mobile phone. The photos were not uploaded, the author believes it was because of a browser installed on the phone (it was Firefox). Therefore, one piece of advice is to make sure before the exam that there is more than one browser installed on a phone. As a workaround, the author switched quickly back to his laptop and took further photos with the laptop even if it was less convenient as taking photos with a mobile phone. One another important note: the author does not remember whether PSI also offered an option to take photos from a mobile phone and tends to think that this provider does not. The next criterion is difficult to assess, but the author believes Pearson VUE had better and friendlier usability than PSI. And the last advise for proctored examination independent from a provider: During one previous examination via Pearson VUE the author was asked to take away hands from his face and not to whisper/moving lips/read question for himself. Another difference by Pearson VUE is that after the examination is over it is always possible to download the exam result.
+
+![](Images/AzurePassed.jpg)
 
 ### Summary
 Based on his experience, the author recommends to take proctored examination via Pearson VUE. In respect to Azure certification, the author had scenario based group of questions in the beginning of the test , during the test taken via Person VUE and in the end of test via PSI. These questions were the most difficult for the author, therefore he thinks it is better to have them in the beginning of the test, as during the exam the weariness will increase and towards the end it will be more difficult to answer these questions. However, the author can not be sure whether scenario based questions are always shown by Person VUE in the beginning and by PSI in the end of the test.
@@ -82,7 +88,6 @@ Also the author tends to think, that companies that previously worked with Java/
 
 
 ### Notes:
-* Version SAA-C01 is deprecated by March 2020, new version is SAA-C02
 
 [1] https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/
 
@@ -91,3 +96,5 @@ Also the author tends to think, that companies that previously worked with Java/
 [3] https://www.whizlabs.com/microsoft-azure-certification-az-204/
 
 [4] https://www.udemy.com/course/exam-microsoft-azure-dev/
+
+* Version SAA-C01 is deprecated by March 2020, new version is SAA-C02
