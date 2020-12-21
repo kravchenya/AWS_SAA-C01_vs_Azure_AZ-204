@@ -1,5 +1,4 @@
-# AWSvsAzure
-Comparison of AWS Solution Architect Associate and Microsoft Azure Developer Associate certifications
+# Comparison of AWS Solution Architect (Associate) and Microsoft Azure Developer (Associate) certifications
 
 In December 2020 author passed Microsoft Azure Developer Associate (AZ-204). About a year ago (November 2019) he also earned AWS Solution Architect Associate (SAA-C01*). In this article he would like to compare his experience with 2 certifications and answer the following questions
 - Which certification was easy/more difficult to pass
