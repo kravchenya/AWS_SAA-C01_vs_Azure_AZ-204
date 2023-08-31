@@ -85,6 +85,10 @@ The author’s observation is that practical experience is more valued as certif
 
 Also the author tends to think, that companies that previously worked with Java/GO/Kotlin, choose AWS as their cloud provider, and companies that have affinity with .NET framework, choose Azure as their cloud solution. Therefore, while being a .NET developer it is easier to start working with Azure than with AWS and vise versa. There might be exceptions, but the author believes they are seldom.
 
+## Appreciation
+
+If you like this artikle, you can buy me a coffee: https://www.buymeacoffee.com/dkravchenko
+
 
 ### Notes:
 
