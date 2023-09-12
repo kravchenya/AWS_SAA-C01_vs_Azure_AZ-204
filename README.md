@@ -87,7 +87,7 @@ Also the author tends to think, that companies that previously worked with Java/
 
 ## Appreciation
 
-If you like this article, you can buy me a coffee: https://www.buymeacoffee.com/dkravchenko
+If you like this article, you can buy me a coffee:  <a href="https://www.buymeacoffee.com/dkravchenko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important; width: auto !important;"></a> 
 
 
 ### Notes:
